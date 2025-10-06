@@ -8,8 +8,7 @@ AI Tutor App là một **ứng dụng web mô phỏng gia sư AI**, giúp ngư�
 ---
 
 ## 🌐 Demo
-👉 [Truy cập ứng dụng tại đây](https://yourusername.github.io/ai-tutor-app/)  
-*(Thay `yourusername` bằng tên tài khoản GitHub của bạn)*
+👉 [Truy cập ứng dụng tại đây]([https://github.com/minhhieu-178/AI-Tutor-Ap].)  
 
 ---
 
